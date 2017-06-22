@@ -249,6 +249,11 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
    margin-bottom: 12px;
 }
+#team h4 {
+   color: #e3d7d7;
+	font-family: 'opensans-bold', sans-serif;
+   font-weight: normal;
+}
 #team p {
    line-height: 30px;
    color: #7A7A7A;
